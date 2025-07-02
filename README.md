@@ -76,15 +76,15 @@ contract TokenSwap {
 ```
 
 The contracts are deployed at:
-- TokenA: `0x83FD4F92926AC4FB7a0b510aD5615Fe76e588cF8`
-- TokenB: `0x67bae4B1E5528Fb6C92E7E0BC243341dc71330db`
-- TokenSwap: `0xf18529580694Ff80e836132875a52505124358EC`
+- TokenA: `0x74BE44E06aD58A22f4C25d34ea0514F053d8e6F0`
+- TokenB: `0xEb478Ab847464f90E2E336a746A3aF552EDe91A4`
+- TokenSwap: `0x4B9A477F3B9C0543ebEE7a5bA06608d3e957C78e`
 
 ## Installation & Setup
 
 1. Clone and install dependencies:
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Wasif445/monad
 cd nexus-swap-example
 ```
 
